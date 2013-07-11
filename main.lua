@@ -5,8 +5,8 @@ local horiz = {}
 local vert = {}
 local side = {}
 
-local width = 10
-local border = 3
+local width = 20
+local border = 6
 
 local backcolor = {220,220,220}
 local forecolor = {50,50,50}
